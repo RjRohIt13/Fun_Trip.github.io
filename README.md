@@ -1,2 +1,2 @@
 # Fun_Trip.github.io
-This project is for only for  practice 
+This project is only for  practice 
